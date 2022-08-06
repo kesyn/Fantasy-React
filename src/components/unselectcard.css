@@ -1,0 +1,80 @@
+.unselectcard-unselectcard {
+  width: 65px;
+  height: 100px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.15000000596046448);
+  border-style: dashed;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.10000000149011612);
+}
+.unselectcard-addplayericon {
+  top: 41.107574462890625px;
+  left: 23.5px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.unselectcard-addplayerposition {
+  left: 5px;
+  bottom: 5px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(48, 51, 57, 1);
+}
+.unselectcard-addplayertext {
+  color: rgba(255, 255, 255, 1);
+  width: 20px;
+  height: auto;
+  padding: 1px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  line-height: 107.51953125%;
+  padding-top: 3px;
+  font-stretch: normal;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+}
+.unselectcard-root-class-name {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+.unselectcard-root-class-name1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+.unselectcard-root-class-name2 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+.unselectcard-root-class-name3 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}

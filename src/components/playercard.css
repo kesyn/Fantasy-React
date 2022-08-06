@@ -1,0 +1,133 @@
+.playercard-playercard {
+  width: 65px;
+  height: 100px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.playercard-unselectplayer {
+  top: 0px;
+  left: 0px;
+  width: 65px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(180deg, #00471B 0%, rgba(0, 71, 27, 0) 100%);
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+}
+.playercard-playeravatar {
+  left: -15px;
+  width: 113px;
+  bottom: 0px;
+  height: 80px;
+  position: absolute;
+  object-fit: cover;
+}
+.playercard-player34 {
+  top: 5px;
+  left: 7px;
+  color: var(--dl-color-gray-white);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.playercard-text {
+  text-decoration: none;
+}
+.playercard-text1 {
+  text-decoration: none;
+}
+.playercard-position {
+  top: 35px;
+  left: 7px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.playercard-positiontext {
+  color: rgba(48, 51, 57, 1);
+  width: 20px;
+  height: auto;
+  padding: 1px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  line-height: 107.51953125%;
+  padding-top: 3px;
+  font-stretch: normal;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+}
+.playercard-unselborder {
+  width: 65px;
+  height: 100px;
+  display: flex;
+  position: relative;
+  box-shadow: inset -0.5px -0.5px 0px #FFFFFF;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: #33CDFF;
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+}
+.playercard-unselbadge {
+  top: -10px;
+  left: 40px;
+  width: 45px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  padding-left: 6px;
+  border-radius: 20px;
+  padding-right: 6px;
+  justify-content: space-between;
+  background-color: #33cdff;
+}
+.playercard-unselbadgeicon {
+  width: 10px;
+  height: 15px;
+}
+.playercard-unselbadgetext {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.playercard-root-class-name {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}

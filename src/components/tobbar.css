@@ -1,0 +1,104 @@
+.tobbar-tobbar {
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: fixed;
+  align-self: stretch;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.tobbar-bisaitab {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tobbar-bisai {
+  height: 100%;
+  display: flex;
+  padding: 0 45px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: #33CDFF;
+  border-width: 1px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 3px;
+}
+.tobbar-bisaiicon {
+  width: 24px;
+  height: 24px;
+  margin: 0 10px 0 0;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.tobbar-bisaitext {
+  color: rgba(48, 51, 57, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  text-decoration: none;
+}
+.tobbar-qushitab {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(228, 229, 230, 1);
+}
+.tobbar-qushi {
+  height: 100%;
+  display: flex;
+  padding: 0 45px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  padding-left: 0 45px;
+  justify-content: center;
+}
+.tobbar-qushiicon {
+  width: 24px;
+  height: 24px;
+  margin: 0 10px 0 0;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.tobbar-qushitext {
+  color: rgba(48, 51, 57, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  text-decoration: none;
+}

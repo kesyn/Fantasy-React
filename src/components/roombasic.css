@@ -1,0 +1,265 @@
+.roombasic-roombasic {
+  height: 145px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  box-shadow: 0px 2px 1px 0px rgba(215, 217, 218, 1) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(250, 250, 250, 1);
+}
+.roombasic-info {
+  width: auto;
+  display: flex;
+  padding: 10px 12px;
+  position: relative;
+  flex-grow: 1;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.roombasic-title {
+  display: flex;
+  padding: 10px 0;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.009999999776482582);
+}
+.roombasic-name {
+  width: 132px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.roombasic-titleicon {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.roombasic-titletext {
+  top: 3.5px;
+  left: 29px;
+  color: rgba(48, 51, 57, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.roombasic-date {
+  color: rgba(48, 51, 57, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  text-align: right;
+  line-height: normal;
+  text-decoration: none;
+}
+.roombasic-awards {
+  width: auto;
+  height: 81px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.roombasic-left {
+  left: 0px;
+  width: 139px;
+  bottom: 0px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.roombasic-roomtag {
+  height: 20px;
+  display: flex;
+  padding: 3px 6px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 46px;
+  justify-content: center;
+  background-color: rgba(218, 26, 50, 1);
+}
+.roombasic-risai {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.roombasic-awardtitle {
+  color: rgba(48, 51, 57, 1);
+  height: auto;
+  align-self: auto;
+  margin-top: 0 0 8px 0;
+  text-align: left;
+  line-height: normal;
+  margin-left: 0 0 8px 0;
+  margin-right: 0 0 8px 0;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+.roombasic-data {
+  width: 80.6953125px;
+  height: 6px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: flex-end;
+  background-color: #b5b5b5;
+}
+.roombasic-progress {
+  width: 25%;
+  height: 6px;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: #FFD600;
+}
+.roombasic-awardimg {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  background-size: cover;
+  justify-content: flex-end;
+  background-image: url("/playground_assets/awards_image-200h.png");
+}
+.roombasic-joinroombtn {
+  height: 100%;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: url("/playground_assets/ad_01-200w.png");
+}
+.roombasic-joinroomimg {
+  width: 80px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("/playground_assets/xiaopeng_logo-200h.png");
+}
+.roombasic-coin {
+  width: 100%;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.roombasic-touru {
+  top: 0px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.roombasic-coinbtn {
+  top: 23px;
+  left: 0px;
+  width: auto;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.roombasic-num {
+  top: 0px;
+  left: 20px;
+  width: auto;
+  height: 25px;
+  display: flex;
+  padding: 0 9px 2px 9px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 62px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(222, 186, 0, 1);
+}
+.roombasic-iconnum {
+  color: rgba(48, 51, 57, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.roombasic-coinicon {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.roombasic-root-class-name {
+  margin-bottom: 10px;
+  background-color: #f5f5f5;
+}
