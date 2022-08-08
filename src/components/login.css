@@ -1,0 +1,294 @@
+.login-frame2043 {
+  top: auto;
+  width: 305px;
+  height: 410px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login-rectangle519 {
+  top: 0px;
+  left: 0px;
+  width: 305px;
+  height: 410px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 10px;
+  background-image: linear-gradient(180deg, rgba(28, 28, 138, 1) 0%, rgba(71, 180, 234, 1) 49%, rgba(227, 229, 230, 1) 100%);
+}
+.login-frame229 {
+  top: 214px;
+  left: 15px;
+  width: 275px;
+  height: 90px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-textinput {
+  top: 45px;
+  left: 0px;
+  width: 276px;
+  height: 50%;
+  position: absolute;
+  border-width: 0px;
+  padding-bottom: 0px;
+}
+.login-textinput1 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  border-width: 0px;
+}
+.login-frame2041 {
+  top: 54px;
+  left: 184px;
+  width: 82px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login-rectangle1504 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 28px;
+  position: absolute;
+  box-sizing: content-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: rgba(48, 51, 57, 1);
+}
+.login-text {
+  top: 5px;
+  left: 10px;
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: PingFang SC;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text1 {
+  top: 320px;
+  left: 37.423828125px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: PingFang SC;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text2 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text3 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.login-text4 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text5 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  opacity: 0.50;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 500px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.login-checkbox {
+  top: 322px;
+  left: 17px;
+  position: absolute;
+}
+.login-frame96 {
+  top: 350px;
+  left: 15px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.login-rectangle1512 {
+  top: -0.0000014185861800797284px;
+  left: 0.00001883661752799526px;
+  width: 275px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+  background-size: cover;
+  background-image: url("/playground_assets/4962645c-8dbd-40dd-94d9-46a233bd76d5-x29w.svg");
+  background-position: center;
+}
+.login-frame {
+  top: 9px;
+  left: 20px;
+  width: 10px;
+  height: 22px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login-text6 {
+  top: 9px;
+  left: 69px;
+  color: rgba(245, 245, 245, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: PingFang SC;
+  font-weight: 600px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text7 {
+  top: 185px;
+  left: 83px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: PingFang SC;
+  font-weight: 600px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-group480962583 {
+  top: 33.30971908569336px;
+  left: 163.34295654296875px;
+  width: 118px;
+  height: 76.21932983398438px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login-group {
+  top: 56.74199676513672px;
+  left: 84.19112396240234px;
+  width: 34px;
+  height: 19.477336883544922px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login-group1 {
+  top: 0.49699512124061584px;
+  left: 11.173294067382812px;
+  width: 23px;
+  height: 19px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login-group2 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 19px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login-svg {
+  width: 118;
+  height: 48;
+  position: absolute;
+}
+.login-text8 {
+  top: 58.57415008544922px;
+  left: 22.810020446777344px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12.825876235961914px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Glow Sans SC;
+  font-weight: 400px;
+  line-height: 107.51953125%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-root-class-name {
+  position: 0px;
+  align-self: center;
+}
