@@ -4,8 +4,6 @@ import PropTypes from 'prop-types'
 
 import './playercard.css'
 
-const logic = require('./playercard.logic')
-
 const Playercard = (props) => {
   return (
     <div className={`playercard-playercard ${props.rootClassName} `}>
